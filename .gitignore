@@ -1,0 +1,14 @@
+# Ignore Excel lock files
+~$*.xlsx
+.~lock.*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore temporary editor files
+.vscode/

@@ -1,4 +1,4 @@
-# Security Analysis and Portfolio Management (SAPM) - Group 06
+# Portfolio Management Project
 
 ## 1. Executive Summary
 This project presents a comprehensive equity research study on **Axis Bank** combined with a portfolio optimization framework using Modern Portfolio Theory. The study integrates Fundamental Analysis (valuation), Technical Analysis (trading strategy), and Quantitative Portfolio Management (Markowitz model).

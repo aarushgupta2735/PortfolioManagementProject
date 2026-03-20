@@ -1,5 +1,18 @@
 # Portfolio Management Project
 
+Team Members: 
+
+| Name | ID No. |
+|------|--------|
+| Rishikant Kumar | 2023B3A10829G |
+| Abhishek Bs | 2023B3A30834G |
+| Priyanshu Jain | 2023B3A70835G |
+| Hardik Agarwal | 2023B3A70838G |
+| Aarush Gupta | 2023B3A70839G |
+| Sajal Mutneja | 2023B3AD0841G |
+| Aditya Agarwal | 2023B3A40831G |
+| Arya Rajeev Shah | 2023B3A70842G |
+
 ## 1. Executive Summary
 This project presents a comprehensive equity research study on **Axis Bank** combined with a portfolio optimization framework using Modern Portfolio Theory. The study integrates Fundamental Analysis (valuation), Technical Analysis (trading strategy), and Quantitative Portfolio Management (Markowitz model).
 

@@ -42,6 +42,3 @@ Using historical returns of selected assets, we constructed an optimal portfolio
 | :---: | :---: |
 | ![Efficient Frontier](Results/Efficient%20Frontier.jpg) | ![Covariance](Results/Covariance%20Matrix.jpg) |
 
-## Team Group 06
--   Aarush Gupta
--   [Add Team Members]
